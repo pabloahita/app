@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica 5</string>
+    <string name="title_activity_menu_principal">menuPrincipal</string>
+    <string name="title_activity_chats">chats</string>
+    <string name="title_activity_buscar_viaje">buscarViaje</string>
+    <string name="title_activity_registro">registro</string>
+    <string name="title_activity_material_design">materialDesign</string>
+</resources>
